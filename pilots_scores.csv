@@ -1,0 +1,36 @@
+opponent,location,status,team_score,opponent_score
+#20 Oregon,"Portland, Ore.",L,4,5
+#14 Gonzaga,"Spokane, Wash.",L,2,5
+#14 Gonzaga,"Spokane, Wash.",W,2,1
+#14 Gonzaga,"Spokane, Wash.",L,3,5
+San Diego (DH),"Portland, Ore.",W,5,4
+San Diego (DH),"Portland, Ore.",L,6,8
+San Diego,"Portland, Ore.",W,6,2
+#5 Oregon State,Hillsboro,L,1,5
+Loyola Marymount,"Los Angeles, Calif.",L,5,11
+Loyola Marymount,"Los Angeles, Calif.",L,3,6
+Loyola Marymount,"Los Angeles, Calif.",W,5,3
+Washington,"Portland, Ore.",L,3,7
+San Francisco,"Portland, Ore.",W,8,2
+San Francisco,"Portland, Ore.",L,3,4
+San Francisco,"Portland, Ore.",L,1,3
+Seattle U,"Portland, Ore.",W,8,2
+Brigham Young,"Portland, Ore.",W,3,1
+Brigham Young,"Portland, Ore.",W,11,1
+Brigham Young,"Portland, Ore.",L,2,6
+Washington,"Seattle, WA",W,5,4
+UC Riverside,"Riverside, CA",W,10,0
+UC Riverside,"Riverside, CA",W,7,6
+UC Riverside,"Riverside, CA",W,5,4
+Oregon,"Eugene, OR",L,2,18
+Fresno State,"Fresno, CA",L,1,7
+Fresno State,"Fresno, CA",L,0,1
+Fresno State,"Fresno, CA",W,7,4
+Cal Poly,"San Luis Obispo, CA",W,5,4
+San Jose State,"San Jose, CA",L,3,4
+San Jose State,"San Jose, CA",W,11,4
+San Jose State,"San Jose, CA",W,15,6
+Creighton,"Portland, Ore.",W,6,5
+Creighton,"Portland, Ore.",W,4,3
+Creighton,"Portland, Ore.",W,12,1
+Creighton,"Portland, Ore.",W,12,2
